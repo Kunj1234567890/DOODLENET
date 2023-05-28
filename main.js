@@ -12,7 +12,7 @@ function setup(){
 
 function preload (){
     Classifier = ml5.imageClassifier('DoodleNet');
-   // thickness of pen = 2cm //
+   
 }
  
 function draw(){
