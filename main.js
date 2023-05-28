@@ -16,7 +16,7 @@ function preload (){
 }
  
 function draw(){
-    strokeWeight(50);
+    strokeWeight(10);
     stroke(0);
     if (mouseIsPressed){
     line(pmouseX,pmouseY,mouseX,mouseY) ;   }
